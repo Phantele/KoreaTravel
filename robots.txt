@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: http://phantele.netify.app/sitemap.xml
